@@ -1,0 +1,1 @@
+# Meterorologicka_stanice_LoRa
