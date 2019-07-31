@@ -13,13 +13,14 @@ Meteorologická stanice ......
 Srážkoměr (člunkový) - Člunkový srážkoměr zachycuje srážky, které svádí na dělený překlápěcí člunek. Po naplnění jeho jedné poloviny příslušným objemem vody (odpovídajícím úhrnu srážek např. 0,1 mm) se člunek překlopí, čímž z první poloviny vyteče voda a srážka začne stékat do druhé poloviny. Překlopení je zaznamenáno a jejich počet určuje celkový úhrn srážek. Člunkové srážkoměry se vyrábí s různou záchytnou plochou (např. 200 cm² nebo 500 cm²). Automatické srážkoměry používané k profesionálnímu měření jsou vybaveny vytápěním, aby bylo možno kontinuálně měřit i množství tuhých srážek. [odkaz1]
 
 
+Princip funkčnosti srážkoměru spočívá v elektromagnickém jazýčkovým spínačem..... K desce Arduino můžeme tento srážkoměr připojit dvoudrátově přes PULL_DOWN rezistor 
 
 
 
 
 
 
-
+výpočet rychlosti věru http://cactus.io/hookups/weather/anemometer/davis/hookup-arduino-to-davis-anemometer-wind-speed
 
 
 
