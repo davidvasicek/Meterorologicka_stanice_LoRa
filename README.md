@@ -21,10 +21,10 @@ Princip funkčnosti srážkoměru spočívá v elektromagnickém jazýčkovým s
 
 
 výpočet rychlosti věru http://cactus.io/hookups/weather/anemometer/davis/hookup-arduino-to-davis-anemometer-wind-speed
+program pro vytváření DPS https://howtomechatronics.com/tutorials/arduino/arduino-wireless-weather-station-project/
 
 
-
-
+http://cactus.io/projects/weather/arduino-weather-station
 
 
 
