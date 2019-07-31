@@ -29,7 +29,7 @@ http://cactus.io/projects/weather/arduino-weather-station
 
 https://openweatherstation.com/ows/index.php
 
-
+https://arduino.cz/arduino-meteostanice-weatherduino-pro-2-podrobneji/
 
 
 
