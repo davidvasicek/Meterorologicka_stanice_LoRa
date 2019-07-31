@@ -27,7 +27,7 @@ program pro vytváření DPS https://howtomechatronics.com/tutorials/arduino/ard
 http://cactus.io/projects/weather/arduino-weather-station
 
 
-
+https://openweatherstation.com/ows/index.php
 
 
 
